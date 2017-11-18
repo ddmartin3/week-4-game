@@ -35,7 +35,7 @@
 				"attack": 35,
 				"counterAttack": 25,
 				"health": 210,
-				"image": "assets/images/yoda.png",
+				"image": "assets/images/yoda.jpg",
 				},
 
 		];
