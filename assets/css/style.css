@@ -1,0 +1,81 @@
+img{
+	height: 90px;
+}
+
+body{
+	background-image: url("../images/death_star_wallpaper.jpg");
+	background-size:contain;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size: 120%;
+}
+
+h1{
+	text-align: center;
+	background-color: black;
+	color: white;
+	width: 100%;
+	font-size:1.5em;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+
+
+h2{
+	clear: both;
+	font-size: 1.3em;
+}
+
+.class{
+	margin-left: 30px;
+	background-color: white;
+	border: 1px;
+	border-style: solid;
+	border-color: green;
+	float: left;
+	text-align: center;
+}
+
+.enemy{
+	margin-left: 30px;
+	background-color: red;
+	border: 1px;
+	border-style: solid;
+	border-color: black;
+	float: left;
+	text-align: center;
+}
+
+
+.attacker{
+	background-color: white;
+	margin-left: 30px;
+	border: 1px;
+	border-style: solid;
+	border-color: green;
+	float: left;
+	text-align: center;
+}
+
+.defender{
+	margin-left: 30px;
+	color: white;
+	background-color: black;
+	border: 1px;
+	border-style: solid;
+	border-color: green;
+	float: left;
+	text-align: center;
+	clear: both;
+}
+
+span{
+	font-size: .75em;
+	display: block;
+	clear: both;
+}
+
+#choosChar{
+	clear: both;
+
+}
